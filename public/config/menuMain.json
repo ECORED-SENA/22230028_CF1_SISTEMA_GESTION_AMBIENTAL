@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "componentes",
+    "title": "1. Componentes del medio ambiente",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "generalidades",
+    "title": "2. Generalidades ISO 14000. Antecedentes, Familia de las ISO 14000",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "terminos",
+    "title": "3: Términos y definiciones usadas en un SGA",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html"
+  }
+]
